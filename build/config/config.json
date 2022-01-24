@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6a3A50c7eaee20f1E26b2123d0F8a4C58B029638",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x6a3a50c7eaee20f1e26b2123d0f8a4c58b029638",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Da PotsNFT",
+  "SYMBOL": "POTS",
+  "MAX_SUPPLY": 54,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dapotsnft",
+  "SHOW_BACKGROUND": true
+}
